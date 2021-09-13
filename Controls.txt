@@ -1,0 +1,7 @@
+Used WASD for movement.
+
+Click on weapons to switch between them.
+
+Press p to attack.
+
+Press o to use health potion.
